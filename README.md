@@ -1,1 +1,1 @@
-# Safety
+<!Doctype html>
